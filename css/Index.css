@@ -1,0 +1,11 @@
+body{
+
+  color: rgba(25, 106, 108, 0.815);
+
+}
+
+p.direita{text-align: right;}
+
+p.centro{text-align: center;}
+
+p.esquerda{text-align: left;}
